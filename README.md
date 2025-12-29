@@ -85,7 +85,7 @@ ESP32-Joystick-Controlled-Robot/
 
 ## 📈 Demo
 
-🎥 Working demo video available in:
+🎥 Working demo video available in: https://github.com/krishisharma301/ESP32-Joystick-Controlled-Robot/blob/main/demo/working_video.mp4
 
 
 ---
@@ -95,7 +95,7 @@ ESP32-Joystick-Controlled-Robot/
 👤 **Krushna Sharma**  
 🎓 Robotics & Automation Engineering Student  
 🔗 GitHub: https://github.com/krishisharma301  
-🔗 LinkedIn: https://linkedin.com/in/<your-profile>](https://www.linkedin.com/in/krushna-sharma-612575324
+🔗 LinkedIn: https://linkedin.com/in/krushna-sharma-612575324
 
 ---
 
