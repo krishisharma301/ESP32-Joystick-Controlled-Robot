@@ -87,14 +87,15 @@ ESP32-Joystick-Controlled-Robot/
 
 🎥 Working demo video available in:
 
+
 ---
 
 ## 🙋‍♂️ Developer
 
 👤 **Krushna Sharma**  
 🎓 Robotics & Automation Engineering Student  
-🔗 GitHub: https://github.com/<your-username>  
-🔗 LinkedIn: https://linkedin.com/in/<your-profile>
+🔗 GitHub: https://github.com/krishisharma301  
+🔗 LinkedIn: https://linkedin.com/in/<your-profile>](https://www.linkedin.com/in/krushna-sharma-612575324
 
 ---
 
